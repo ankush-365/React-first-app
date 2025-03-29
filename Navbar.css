@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+nav , ul {
+    display: flex;
+    background-color: bisque;
+}
+li{
+    list-style-type: none;
+    
+}
+ul{
+    gap: 50px;
+    padding: 20px;
+}

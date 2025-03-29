@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+  justify-content: space-around; /* Adjust alignment */
+  gap: 20px; 
+}
+
+.card{
+    height: 400px;
+    width: 300px;
+    border: 2px solid rgb(25, 25, 26);
+    margin: 35px;
+}
+p{
+    margin-top: 30px;
+    padding: 5px;
+}
+h1{
+    padding: 8px;
+}
